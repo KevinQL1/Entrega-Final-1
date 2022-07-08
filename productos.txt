@@ -1,0 +1,32 @@
+[
+	{
+		"title": "FIFA 2022",
+		"price": 200000,
+		"thumbnail": "https://depor.com/resizer/bFmlzsy-4WwWFV31-CiNrhNO-cc=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/LGEREE5Z5ZFZBJAQOMDFLPTVCE.jpg",
+		"id": 1
+	},
+	{
+		"title": "PORTAL 2",
+		"price": 150000,
+		"thumbnail": "https://m.media-amazon.com/images/I/811ZPN+7KML._SY445_.jpg",
+		"id": 2
+	},
+	{
+		"title": "Horizon Forbden West",
+		"price": 300000,
+		"thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/horizon-forbidden-west-screenshot-01-disclaimer-02oct20?$1600px$",
+		"id": 3
+	},
+	{
+		"title": "UNCHARTED",
+		"price": 170000,
+		"thumbnail": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2016/05/Uncharted-4-1.png?w=1480&ssl=1",
+		"id": 4
+	},
+	{
+		"title": "kevin",
+		"price": "200000",
+		"thumbnail": "img",
+		"id": 5
+	}
+]
